@@ -1,0 +1,20 @@
+{
+  "name": "sol_wallet_app",
+  "version": "1.0.0",
+  "description": "sol wallet app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wallet"
+  ],
+  "author": "Genzy",
+  "license": "ISC",
+  "dependencies": {
+    "@solana-developers/helpers": "^2.7.0",
+    "@solana/web3.js": "^1.98.0",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.4.7"
+  }
+}
